@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Raafat View</p>
+
+
+<style>
+    p{
+    background-color:yellow;
+}
+</style>
+
+@{
+    int x = 10;
+    int y = x + 10;
+    <p> Hi from Block of code ${{x}}</p>
+}
+<!-- inline of code Return value -->
+@x
+

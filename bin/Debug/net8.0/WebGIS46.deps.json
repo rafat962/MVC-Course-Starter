@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebGIS46/1.0.0": {
+        "runtime": {
+          "WebGIS46.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebGIS46/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
